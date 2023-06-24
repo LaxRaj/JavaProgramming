@@ -1,4 +1,4 @@
-package endUP;
+
 
 public class endUP {
     public String endUp(String str) {
