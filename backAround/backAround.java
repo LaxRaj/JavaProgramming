@@ -1,7 +1,7 @@
 package backAround;
 
 public class backAround {
-    public String backAround(String str) {
+    public String backaround(String str) {
   if ( str.length() > 2 ) {
     String rep = str.substring( (str.length()-1),(str.length()));
     
