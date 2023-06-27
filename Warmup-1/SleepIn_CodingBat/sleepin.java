@@ -1,4 +1,7 @@
-public boolean sleepIn(boolean weekday, boolean vacation) {
+package SleepIn_CodingBat;
+
+public class sleepin {
+    public boolean sleepIn(boolean weekday, boolean vacation) {
   if (weekday == vacation) {
     return true ;
   }
@@ -8,4 +11,5 @@ public boolean sleepIn(boolean weekday, boolean vacation) {
    else {
      return false ;
    }
+}
 }

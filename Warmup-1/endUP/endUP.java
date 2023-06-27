@@ -1,6 +1,5 @@
 
-
-public class endUP {
+public class endup {
     public String endUp(String str) {
   if (str.length() <= 3 ) {
     return str.toUpperCase();
@@ -13,3 +12,4 @@ public class endUP {
 }
 
 }
+
