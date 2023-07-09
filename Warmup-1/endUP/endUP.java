@@ -1,4 +1,3 @@
-
 public class endup {
     public String endUp(String str) {
   if (str.length() <= 3 ) {
